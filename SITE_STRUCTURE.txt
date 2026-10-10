@@ -1,0 +1,32 @@
+CORRECT REPOSITORY ROOT STRUCTURE
+
+No-Bull--Tallow-Storefront/
+├── index.html
+├── styles.css
+├── script.js
+├── README.txt
+├── CATALOG_REVIEW.txt
+├── SITE_STRUCTURE.txt
+└── assets/
+    ├── IMAGE_SOURCES.txt
+    ├── product-placeholder.svg
+    ├── logo/
+    │   └── logo.svg
+    ├── icons/
+    │   ├── favicon.svg
+    │   ├── cart.svg
+    │   ├── menu.svg
+    │   └── arrow-up-right.svg
+    └── ai-products/
+        ├── set1-body-butter-front.jpg
+        ├── set1-body-butter-angle.jpg
+        ├── set1-body-butter-open.jpg
+        ├── set1-lip-balm-set.jpg
+        ├── set1-lip-balm-angle.jpg
+        ├── set1-lip-balm-detail.jpg
+        ├── set1-soap-set-front.jpg
+        ├── set1-soap-set-flatlay.jpg
+        ├── set1-soap-set-stacked.jpg
+        └── corresponding set2 concept images
+
+IMPORTANT: index.html must be directly in the repository root for the simplest GitHub Pages setup. Do not put the files inside another nested no_bull_tallow_storefront folder.
