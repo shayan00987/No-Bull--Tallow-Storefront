@@ -1,5 +1,0 @@
-Product photography is referenced from the original public store's Shopify CDN in script.js and index.html.
-The storefront uses remote images so the package can be small. For an offline/self-hosted production launch,
-download authorized original product image files into this folder and update the image paths in script.js.
-Product imagery and trademarks belong to No Bull Tallow. Obtain the store owner's permission before publishing
-a branded commercial storefront or re-hosting their product photography.
